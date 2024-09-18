@@ -1,0 +1,14 @@
+{
+  "preamble": {
+    "title": "minhgiga/src",
+    "description": "Aiken contracts for project 'minhgiga/src'",
+    "version": "0.0.0",
+    "plutusVersion": "v3",
+    "compiler": {
+      "name": "Aiken",
+      "version": "v1.1.2+7047c77"
+    },
+    "license": "Apache-2.0"
+  },
+  "validators": []
+}
